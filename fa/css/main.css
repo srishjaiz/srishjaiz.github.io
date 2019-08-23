@@ -253,7 +253,7 @@ ul{
 }
 /*bg-image-div*/
 .bg-img-div {
-	background-image: url("/home/srishti/Documents/HTML CSS/design-5/design-5/assets/city.jpg");
+	background-image: url("../assets/city.jpg");
 	/* height: 150px; */
 	background-size: 100% 400px;
 	padding: 140px;
